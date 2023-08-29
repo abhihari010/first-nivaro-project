@@ -1,0 +1,16 @@
+body {
+    background-image: url('background-image.jpg'); /* Replace with the path to your background image */
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-color: #222; /* Fallback color in case the image doesn't load */
+    color: #fff; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+  }
+#myButton {
+    width: 1; /* Set the width of the button */
+    height: 10; /* Set the height of the button */
+    font-size: 0.5; /* Adjust the font size of the button text */
+    position: relative;
+    top: 650px; /* Move the button 20px down from its normal position */
+    left: 1400px;
+  }
